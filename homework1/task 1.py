@@ -4,4 +4,3 @@ surname=input("თქვენი გვარია?")
 age=input("თქვენი ასაკი?") 
 print("გამარჯობა " + name + " " + surname + ". თქვენი ასაკია"  + age + "წელი.")
 
-print("chasworebaaaa")
