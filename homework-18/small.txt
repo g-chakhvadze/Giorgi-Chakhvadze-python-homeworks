@@ -1,0 +1,4 @@
+Giorgi,Apples,5,1.20
+Saba,Bananas,10,0.50
+Tornike,Cherries,2,3.00
+Nika,Melons,1,5.00
