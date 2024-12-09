@@ -1,0 +1,8 @@
+{
+    "employees": [
+        {"id": 1, "name": "George Harrison", "position": "Lead Guitarist", "salary": 4600},
+        {"id": 2, "name": "Ringo star", "position": "Drummer", "salary": 4400},
+        {"id": 3, "name": "John Lenon", "position": "Lead Guitarist", "salary": 4700},
+        {"id": 4, "name": "Paul McCartney", "position": "Bass Guitarist", "salary": 4650}
+    ]
+}
