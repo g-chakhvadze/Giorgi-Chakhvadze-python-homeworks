@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2559caf2-6f8e-4ac3-9990-d3408dde97f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework-17/hw17-task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-21/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-21/hw21-task1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +51,10 @@
     "Python.admin.executor": "Run",
     "Python.hw15-task1.executor": "Run",
     "Python.hw17-task1.executor": "Run",
+    "Python.hw21-task1.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "homework-21"
   }
 }]]></component>
   <component name="RecentsManager">
