@@ -1,0 +1,2 @@
+Nini,Eggs,12,0.90
+Dato,Grapes,8,1.5

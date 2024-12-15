@@ -1,0 +1,7 @@
+name=input("your name: ")
+surname=input("your surname: ")
+age=input("your age: ")
+city=input("your city: ")
+print(f"Hello {name} {surname}.")
+print(f"Age: {age}")
+print(f"City: {city}")

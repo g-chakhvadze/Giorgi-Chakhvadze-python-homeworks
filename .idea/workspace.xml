@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2559caf2-6f8e-4ac3-9990-d3408dde97f8" name="Changes" comment="">
+ homework-19
       <change afterPath="$PROJECT_DIR$/homework-19/data.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/homework-19/hs19-task1.py" afterDir="false" />
+
+ homework-18
+      <change afterPath="$PROJECT_DIR$/homework-18/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-18/hw18-task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-18/hw18-task2.py" afterDir="false" />
+
+      <change afterPath="$PROJECT_DIR$/homework-17/hw17-task1.py" afterDir="false" />
+ main
+ main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +59,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.admin.executor": "Run",
+ homework-19
     "Python.hs19-task1.executor": "Run",
     "Python.hw15-task1.executor": "Run",
     "Python.hw17-task1.executor": "Run",
+
+    "Python.hw15-task1.executor": "Run",
+    "Python.hw17-task1.executor": "Run",
+ homework-18
+ main
     "Python.hw18-task1.executor": "Run",
     "Python.hw18-task2.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+ homework-19
     "git-widget-placeholder": "homework-19"
+
+    "git-widget-placeholder": "homework-18"
+
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+ main
+ main
   }
 }]]></component>
   <component name="RecentsManager">
@@ -82,4 +107,8 @@
     </task>
     <servers />
   </component>
+ homework-19
 </project>
+
+</project>
+ main
