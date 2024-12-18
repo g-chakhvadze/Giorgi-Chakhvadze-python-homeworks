@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2559caf2-6f8e-4ac3-9990-d3408dde97f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework-17/hw17-task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-23/task1_person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-23/task2_bank_acc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-23/task3_student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +53,13 @@
     "Python.admin.executor": "Run",
     "Python.hw15-task1.executor": "Run",
     "Python.hw17-task1.executor": "Run",
+    "Python.hw22-task1.executor": "Run",
+    "Python.hw22-task2.executor": "Run",
+    "Python.hw22-task3.executor": "Run",
+    "Python.hw22-task4.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "homework-23"
   }
 }]]></component>
   <component name="RecentsManager">
