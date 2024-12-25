@@ -4,134 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
- homework-22
-    <list default="true" id="2559caf2-6f8e-4ac3-9990-d3408dde97f8" name="Changes" comment="" />
-
-    <list default="true" id="2559caf2-6f8e-4ac3-9990-d3408dde97f8" name="Changes" comment="">
- homework-23
-      <change afterPath="$PROJECT_DIR$/homework-23/task1_person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-23/task2_bank_acc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-23/task3_student.py" afterDir="false" />
+    <list default="true" id="19cb2dfa-90ba-4eda-9012-99481b0771b4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-
- homework-21
-      <change afterPath="$PROJECT_DIR$/homework-21/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-21/hw21-task1.py" afterDir="false" />
-
- homework-19
-      <change afterPath="$PROJECT_DIR$/homework-19/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-19/hs19-task1.py" afterDir="false" />
-
- homework-18
-      <change afterPath="$PROJECT_DIR$/homework-18/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-18/hw18-task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-18/hw18-task2.py" afterDir="false" />
-
-      <change afterPath="$PROJECT_DIR$/homework-17/hw17-task1.py" afterDir="false" />
- main
- main
- main
- main
     </list>
- main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;g-chakhvadze&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "g-chakhvadze"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/g-chakhvadze/Giorgi-Chakhvadze-python-homeworks.git&quot;,
-    &quot;accountId&quot;: &quot;5909e80e-acb8-4ed5-8347-9746f4f03cd2&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/g-chakhvadze/Giorgi-Chakhvadze-python-homeworks.git",
+    "accountId": "5909e80e-acb8-4ed5-8347-9746f4f03cd2"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2oyEyxRYVM7KCoqUklcTVpsqHld" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2qcBzxBlYxBRaGCLdaseJ2U46Oo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
- homework-22
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.admin.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw15-task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw17-task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
-
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.admin.executor": "Run",
- homework-19
-    "Python.hs19-task1.executor": "Run",
-    "Python.hw15-task1.executor": "Run",
-    "Python.hw17-task1.executor": "Run",
- homework-23
-    "Python.hw22-task1.executor": "Run",
-    "Python.hw22-task2.executor": "Run",
-    "Python.hw22-task3.executor": "Run",
-    "Python.hw22-task4.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-
- homework-21
     "Python.hw21-task1.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework-21"
-
-
-    "Python.hw15-task1.executor": "Run",
-    "Python.hw17-task1.executor": "Run",
- homework-18
- main
-    "Python.hw18-task1.executor": "Run",
-    "Python.hw18-task2.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
- homework-19
-    "git-widget-placeholder": "homework-19"
-
-    "git-widget-placeholder": "homework-18"
-
-    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
- main
- main
- main
- main
- main
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\HOME\PycharmProjects\Giorgi-Chakhvadze-python-homeworks\homework-15" />
-    </key>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -142,16 +53,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2559caf2-6f8e-4ac3-9990-d3408dde97f8" name="Changes" comment="" />
-      <created>1731833674575</created>
+      <changelist id="19cb2dfa-90ba-4eda-9012-99481b0771b4" name="Changes" comment="" />
+      <created>1734952250218</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1731833674575</updated>
+      <updated>1734952250218</updated>
     </task>
     <servers />
   </component>
- homework-19
 </project>
-
-</project>
- main
